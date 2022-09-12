@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">CDW_App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_third">Spooky</string>
+    <string name="i_like">I like</string>
+    <string name="the_game"> the game</string>
+    <string name="Halo"> Halo</string>
+    <string name="because"> because</string>
+    <string name="itdont" tools:ignore="StringEscaping">it doesnt</string>
+    <string name="give_me"> give me</string>
+    <string name="stupid"> stupid</string>
+    <string name="font_formatting">font formatting</string>
+    <string name="errors"> errors</string>
+    <string name="verse">Surely I am too stupid to be a man.
+I have not the understanding of a man. Proverbs 30:2 (ESV)
+    (A prophetic fortelling of my birth.</string>
+    <string name="clickme"> click me!</string>
+    <string name="ifix">I fixed my problem. No need to panic.</string>
+</resources>
